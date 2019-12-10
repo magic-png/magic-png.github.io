@@ -1,0 +1,106 @@
+
+
+.profit{
+	background-color:#B8E05D;
+	height:150px;
+
+	 }
+
+
+.ut{
+	width: 1180px;
+ text-align: center;
+ height: 100%;
+ margin: 0.5px;
+ border: 1px solid;
+ color:#EE82EE;
+}	
+
+.gr{
+	color:#5DE0B5;
+	font-size: 20px;
+	padding: 3px 0;
+	font-family:cursive;
+
+}
+
+.xr{
+	padding:20pt 0 20pt 30pt;
+	margin-left:auto; 
+	background-color: #A86BE4;
+	margin: 10pt;
+	border-radius: 4pt;
+	width: 25%; 
+	display:inline-block;
+}
+
+
+h2{
+	text-align: left;
+	font-family:monospace;
+	font-size:30px;
+}
+
+p{
+	font-size:20px;
+	font-family: serif;
+	text-align: left;
+}
+
+
+.contet{
+	width: 1000px;
+	margin: auto;
+}
+
+
+
+#login{
+	background-image: url("snake2.jpg");
+	text-align: center;
+}
+  
+body{
+	text-align: center;
+
+}
+
+
+.button:focus{
+	background-color:pink;
+	border-radius: 50%
+
+	 }
+
+#name:active{
+background-color:#5DE0B5;
+	border-radius: 100%
+}
+
+#pass:hover{
+	background-color:purple;
+	border-radius: 100%
+}
+
+.image{
+	width: 800px;
+}
+.image:hover{
+	width: 1000px;
+}
+
+@media(max-width:820px){
+	.image{
+		width: 400px;
+}
+.heading{color: pink;}
+body{
+	background-color: purple;
+}
+}
+@media(max-width: 380px){
+}
+
+a:visited{
+	color: orange;
+}
